@@ -3,7 +3,7 @@
 The task of the current project is co-reference resolution using representation learning. In other words, to learn to co-refer mentions in a speech context, e.g. phrases, dialogs. 
 
 The project is consisted of two phases: 
-1. Finding the mentions such as __Jack__, __the book__, __Marie__, __he__ and __it__ in the phrase “Jack gave the book back to Marie. He had borrowed it last week”.
+1. Finding the mentions such as _Jack_, _the book_, _Marie_, _he_ and _it_ in the phrase “Jack gave the book back to Marie. He had borrowed it last week”.
 2. Modeling the co-reference representation and training a model for further resolution. In this project we concentrate on the second phase. 
 
 ### Representation Learning
